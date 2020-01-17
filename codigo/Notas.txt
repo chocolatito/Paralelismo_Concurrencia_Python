@@ -1,2 +1,0 @@
-importante al usar multiprocessing en windows
-https://docs.python.org/2/library/multiprocessing.html#windows
